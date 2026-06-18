@@ -1,4 +1,4 @@
-# :wave: Hey there! I'm Shree Aru
+# :wave: Hey there! I'm Shree Aru Bisoi
 
 ### 🚀 Software Developer | Python Enthusiast | Open Source Contributor
 
