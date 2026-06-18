@@ -1,6 +1,6 @@
 # :wave: Hey there! I'm Shree Aru Bisoi
 
-### 🚀 Software Developer | Python Enthusiast | Open Source Contributor
+### 🚀 Student | Python Enthusiast | Open Source Contributor
 
 [![Profile Views](https://komarev.com/ghpvc/?username=shree-aru&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/shree-aru)
 [![GitHub followers](https://img.shields.io/github/followers/shree-aru?logo=GitHub&style=for-the-badge)](https://github.com/shree-aru)
