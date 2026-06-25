@@ -25,7 +25,7 @@
 
 ### 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=shree-aru&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" width="100%"/>
+<img src="https://github-readme-stats-omega-ruby-36.vercel.app/api?username=shree-aru&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" width="100%"/>
 
 </td>
 </tr>
@@ -119,16 +119,16 @@
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/shree-aru/currency-converter-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shree-aru&repo=currency-converter-app&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img align="center" src="https://github-readme-stats-omega-ruby-36.vercel.app/api/pin/?username=shree-aru&repo=currency-converter-app&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 <a href="https://github.com/shree-aru/movie-booking-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shree-aru&repo=movie-booking-system&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img align="center" src="https://github-readme-stats-omega-ruby-36.vercel.app/api/pin/?username=shree-aru&repo=movie-booking-system&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 <a href="https://github.com/shree-aru/password-strength-checker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shree-aru&repo=password-strength-checker&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img align="center" src="https://github-readme-stats-omega-ruby-36.vercel.app/api/pin/?username=shree-aru&repo=password-strength-checker&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 <a href="https://github.com/shree-aru/language-transalator-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shree-aru&repo=language-transalator-app&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img align="center" src="https://github-readme-stats-omega-ruby-36.vercel.app/api/pin/?username=shree-aru&repo=language-transalator-app&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
 ---
@@ -146,7 +146,7 @@
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shree-aru&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="40%"/>
+  <img src="https://github-readme-stats-omega-ruby-36.vercel.app/api/top-langs/?username=shree-aru&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="40%"/>
 </p>
 
 ---
